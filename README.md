@@ -1,6 +1,6 @@
 # Han21
 
-*팀 mini project 개발용 organization 내 Repository url*
+*개인 repo url 소개*
 
 > 안녕하세요 _김한결_ 입니다.
 > >소개
